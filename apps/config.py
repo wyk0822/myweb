@@ -31,7 +31,7 @@ class Config:
     # 巡检报告工具地址
     REPORT_TOOL_URL = "http://127.0.0.1:8082/api/v1/report"
     # login redis
-    LOGIN_REDIS_URL = 'redis://:npUvCrC3@127.0.0.1:16379/2'
+    LOGIN_REDIS_URL = 'redis://:npUvCrC322@127.0.0.1:16379/2'
 
     TOKEN_EXP_TIME = 15 * 60
 
